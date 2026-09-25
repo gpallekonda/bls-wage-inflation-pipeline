@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and Jupyter checkpoints
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables & Secrets (Keep API keys safe)
+.env
+.env.*
+
+# Editor & IDE configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Optional: SQLite Local Temporary Lock Files
+*.db-journal
+*.db-wal
