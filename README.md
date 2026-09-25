@@ -4,6 +4,14 @@ An end-to-end macroeconomic data engineering and analytics pipeline. This projec
 
 ---
 
+## Interactive Dashboard
+The final interactive visualization is published on Tableau Public:
+* **Live Dashboard:** [View U.S. Real Wage Growth & Inflation Analysis (2020-2026) on Tableau Public](https://public.tableau.com/app/profile/gabriel.pallekonda)
+
+> **Overview:** The dashboard displays the 12-month nominal wage growth rate against the CPI-U inflation rate (dual-axis line chart) alongside net real wage growth (diverging bar chart), tracking purchasing power shifts from 2020 through 2026.
+
+---
+
 ## Architecture & Data Flow
 
 ```
