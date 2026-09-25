@@ -87,3 +87,5 @@ pip install -r requirements.txt
 ```bash
 python src/pipeline.py
 ```
+## Acknowledgments
+* **Generative AI:** Large Language Models (LLMs) were utilized as a technical co-pilot during this project. AI assisted with troubleshooting Python environment configurations, debugging SQL syntax, and formatting Markdown documentation. All macroeconomic logic, data engineering architecture, and final analytical conclusions were independently directed and verified by the author.
