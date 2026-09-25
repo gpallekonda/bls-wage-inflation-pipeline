@@ -77,7 +77,7 @@ bls-wage-inflation-pipeline/
 
 ### 1. Environment Setup
 ```bash
-git clone [https://github.com/gpallekonda/bls-wage-inflation-pipeline.git](https://github.com/gpallekonda/bls-wage-inflation-pipeline.git)
+git clone https://github.com/gpallekonda/bls-wage-inflation-pipeline.git
 cd bls-wage-inflation-pipeline
 pip install -r requirements.txt
 ```
